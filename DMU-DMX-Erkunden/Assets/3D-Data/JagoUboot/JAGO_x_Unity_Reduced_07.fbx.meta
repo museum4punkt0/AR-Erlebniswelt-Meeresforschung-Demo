@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 1f07ed34ffa0c9a4ebdd6942136235e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackSideRolle
+    100002: "BlaueGel\xE4nke_01"
+    100004: "D\xFCssen"
+    100006: EisneStangen
+    100008: Fahne
+    100010: Gelb
+    100012: GitterTop
+    100014: HellesEisen_1
+    100016: JAGO_small_obj
+    100018: //RootNode
+    100020: KuppelFront
+    100022: KuppelTop
+    100024: Lichter
+    100026: Lichter_Glass
+    100028: Logos
+    100030: Propeller_gross
+    100032: Propeller_klein
+    100034: Schrauben
+    100036: Solid2
+    100038: Verbindungsglieder
+    400000: BackSideRolle
+    400002: "BlaueGel\xE4nke_01"
+    400004: "D\xFCssen"
+    400006: EisneStangen
+    400008: Fahne
+    400010: Gelb
+    400012: GitterTop
+    400014: HellesEisen_1
+    400016: JAGO_small_obj
+    400018: //RootNode
+    400020: KuppelFront
+    400022: KuppelTop
+    400024: Lichter
+    400026: Lichter_Glass
+    400028: Logos
+    400030: Propeller_gross
+    400032: Propeller_klein
+    400034: Schrauben
+    400036: Solid2
+    400038: Verbindungsglieder
+    2300000: BackSideRolle
+    2300002: "BlaueGel\xE4nke_01"
+    2300004: "D\xFCssen"
+    2300006: EisneStangen
+    2300008: Fahne
+    2300010: Gelb
+    2300012: GitterTop
+    2300014: HellesEisen_1
+    2300016: KuppelFront
+    2300018: KuppelTop
+    2300020: Lichter
+    2300022: Lichter_Glass
+    2300024: Logos
+    2300026: Propeller_gross
+    2300028: Propeller_klein
+    2300030: Schrauben
+    2300032: Solid2
+    2300034: Verbindungsglieder
+    3300000: BackSideRolle
+    3300002: "BlaueGel\xE4nke_01"
+    3300004: "D\xFCssen"
+    3300006: EisneStangen
+    3300008: Fahne
+    3300010: Gelb
+    3300012: GitterTop
+    3300014: HellesEisen_1
+    3300016: KuppelFront
+    3300018: KuppelTop
+    3300020: Lichter
+    3300022: Lichter_Glass
+    3300024: Logos
+    3300026: Propeller_gross
+    3300028: Propeller_klein
+    3300030: Schrauben
+    3300032: Solid2
+    3300034: Verbindungsglieder
+    4300000: Propeller_gross
+    4300002: Propeller_klein
+    4300004: Fahne
+    4300006: "D\xFCssen"
+    4300008: Schrauben
+    4300010: Gelb
+    4300012: GitterTop
+    4300014: EisneStangen
+    4300016: Solid2
+    4300018: HellesEisen_1
+    4300020: Logos
+    4300022: KuppelTop
+    4300024: KuppelFront
+    4300026: "BlaueGel\xE4nke_01"
+    4300028: Verbindungsglieder
+    4300030: Lichter_Glass
+    4300032: Lichter
+    4300034: BackSideRolle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastick
+    second: {fileID: 2100000, guid: 8e61074bd0e36604b9e21e9a99ebdeae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BluPlastik
+    second: {fileID: 2100000, guid: 2605589a6ba7e4447bf27361179830b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EisenDunkel
+    second: {fileID: 2100000, guid: 5e7c2b387e128b042a51d14c0b897874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EisenHell
+    second: {fileID: 2100000, guid: ea8985f94eb4abf48b404dfdb516b050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fahne
+    second: {fileID: 2100000, guid: 214504fb0bc1ba945b7c353df6ede0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GelbMetall
+    second: {fileID: 2100000, guid: 8c5e9225594de8c40850419a4ab14cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas_Licht
+    second: {fileID: 2100000, guid: 84a01886b2c752f46b93afd58c80f375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey_Plastic
+    second: {fileID: 2100000, guid: 06c9b51757c873d4aaefd077f3fef097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: f0fb846259e8aa648ba837e1aca5430f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Propeller_gross
+    second: {fileID: 2100000, guid: fa1404d44aaabbf478b44efa1bd956cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Propeller_klein
+    second: {fileID: 2100000, guid: 4c3f8563db6429f4e8ff679f9440d49f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedMetal
+    second: {fileID: 2100000, guid: 7f2acfc44d8178444a6c77df019853cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass kupel
+    second: {fileID: 2100000, guid: 91439da54130573428f61faa784549c8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

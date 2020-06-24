@@ -1,0 +1,16 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Default
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump 852632_Kupfer-Zink-Erz_Map_Normals_4K.jpg
+map_Kd 852632_Kupfer-Zink-Erz_Map_Albedo_4K.jpg
+map_Ns 852632_Kupfer-Zink-Erz_Map_Roughness_4K.jpg
+refl 852632_Kupfer-Zink-Erz_Map_Metalness_4K.jpg
