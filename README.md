@@ -1,6 +1,6 @@
 ![App Splashart](https://i.imgur.com/T9h5izP.png)
 
-# Innovationen mit AR - Erlebniswelt Meeresbiologie
+# Innovationen mit AR - Erlebniswelt Meeresbiologie 
 <b>Unterwasserwelten im Deutschen Museum erforschen mit innovativen AR Erlebnissen.</b><br>
 Ein Video zur Anwendung steht bereit unter der folgenden Adresse: https://bit.ly/ar-dmu-dexperio
 
