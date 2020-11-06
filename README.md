@@ -138,3 +138,7 @@ Zum Teilprojekt [DMU-DMX-Beutefang](https://github.com/DEXPERIO/DMU-DMX-Master/t
 ## Hinweis
 Der Sourcecode wurde für den Test der verschiedenen AR-Erlebnisse im Rahmen eines Prototypen entwickelt. Dabei Stand primär im Vordergrund, die gewünschten Funktionen lauffähig abzubilden und nicht den Code hinsichtlich Struktur und Aufbau vergleichbar einer Produduktivanwendung zu optimieren.
 
+## Lizenz
+
+
+
